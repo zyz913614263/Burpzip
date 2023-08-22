@@ -15,3 +15,6 @@ with pyzipper.AESZipFile(self.file, 'r', compression=pyzipper.ZIP_DEFLATED, encr
 
 破成功会打印解压密码。
 可以用密码去用解压工具解压。
+
+
+QQ交流:913614263
